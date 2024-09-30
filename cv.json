@@ -1,89 +1,81 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Angel Valladares",
+    "label": "Web Developer & AI/Enthusiast",
+    "image": "/me.jpg",
+    "email": "arivalladares2.0@gmail.com",
+    "phone": "+504035825388",
+    "url": "https://github.com/angeldev96",
+    "summary": "🚀 Desarrollador Web & Operador de Planta Eléctrica ⚡ Soy un profesional apasionado que combina conocimientos en desarrollo de software con la gestión operativa en el sector energético. Como Desarrollador Fullstack, creo y mantengo aplicaciones que optimizan la operación y monitoreo de la planta eléctrica. Además, desarrollo aplicaciones web para diversos departamentos de la empresa, siempre enfocado en la mejora continua a través de la tecnología, asegurando que las herramientas que diseño sean intuitivas y efectivas. En mi rol como Operador de Planta Eléctrica, gestiono la operación de maquinaria relacionada con la generación de electricidad y monitoreo estos sistemas para garantizar un funcionamiento seguro y eficiente. Mi experiencia me permite comprender tanto los aspectos técnicos como operativos de la planta, ofreciendo una perspectiva única para desarrollar soluciones adaptadas a las necesidades del negocio. Estoy comprometido con la innovación y la sostenibilidad, buscando constantemente mejorar los procesos existentes y contribuir a un entorno de trabajo colaborativo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "11101",
+      "city": "Tegucigalpa",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Honduras"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "angel-valladares-422490159",
+        "url": "https://www.linkedin.com/in/angel-valladares-422490159/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "angeldev96",
+        "url": "https://x.com/angeldev96"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "angeldev96",
+        "url": "https://github.com/angeldev96"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Corporacion Arrayan",
+      "position": "Desarrollador Web y Operador de Planta",
+      "url": "https://arrayanhn.com/beta/",
+      "startDate": "2024-07-02",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "",   
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
+      "name": "DAI GLOBAL LLC",
+      "position": "Auxiliar de IT",
+      "url": "https://www.dai.com/our-work/projects/honduras-creando-mi-futuro",
+      "startDate": "2023-02-14",
+      "endDate": "2024-01-13",
+      "summary": "",
+        "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "TIGO HONDURAS",
+      "position": "Pasantia de Ing. Sistemas",
+      "url": "https://www.tigo.com.hn/",
+      "startDate": "2019-1-3",
+      "endDate": "2019-10-13",
+      "summary": "",
       "highlights": [
         "Started the company"
       ]
     }
+   
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
+ 
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Nacional Autónoma de Honduras",
+    "url": "https://unah.edu.hn",
+    "area": "Ing. en Sistemas",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2017-01-01",
+    "endDate": "2025-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -210,66 +202,45 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Mail Indexer",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto de indexación de correos electrónicos usando Go y ZincSearch como motor de búsqueda",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        ""
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/angeldev96/mail-indexer"
     },
     {
-      "name": "AdventJS",
+      "name": "FinanceRiskSegmenter",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Segmentador de riesgo financiero usando JavaScript y TypeScript",
       "highlights": [
         "+1 millón de visitas",
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/angeldev96/FinanceRiskSegmenter"
     },
     {
-      "name": "Codember",
+      "name": "Bienes Raices Urbana",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Sitio Web de Bienes Raices",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/angeldev96/bienes-raices-urbana"
     },
     {
-      "name": "codi.link",
+      "name": "Party & Gift",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Proyecto de E-Commerce desarrollado en la clase de Ingenieria de Software",
       "highlights": [
         "100k visitas al mes",
         "Desarrollado por la comunidad"
       ],
       "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/angeldev96/partyandgift"
     }
   ]
 }
